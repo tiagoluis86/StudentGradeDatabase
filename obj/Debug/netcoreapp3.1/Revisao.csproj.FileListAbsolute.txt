@@ -1,0 +1,14 @@
+C:\Users\tiago\OneDrive\Área de Trabalho\Projetos\c#\projeto1\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Projetos\c#\projeto1\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Projetos\c#\projeto1\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Projetos\c#\projeto1\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Projetos\c#\projeto1\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Projetos\c#\projeto1\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Projetos\c#\projeto1\obj\Debug\netcoreapp3.1\Revisao.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Projetos\c#\projeto1\obj\Debug\netcoreapp3.1\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Área de Trabalho\Projetos\c#\projeto1\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Projetos\c#\projeto1\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Área de Trabalho\Projetos\c#\projeto1\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Projetos\c#\projeto1\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Projetos\c#\projeto1\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Projetos\c#\projeto1\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
